@@ -2,10 +2,10 @@
 Health Plan Analysis
 
 ## Introduction:
-This project is to analyze the plan data for the state of MA and NY . The source data is from CMS .Please find the link in Source Data Section.
+This project is to analyze the plan data for the state of MA and NY for 2016 only. The source data is from The Centers for Medicare & Medicaid Services (CMS) .Please find the link in Source Data Section.
 
 ## Tools and Hardware :
- Analysis is done in IBM Bluemix - MySQL . The hardware specification is as follows with the free account : 102MB RAM and 1GB Storage. 
+ Analysis is done in IBM Bluemix - MySQL . The hardware specification is as follows with the free account : 1024MB RAM and 1GB Storage. 
  
 ## Source Data:
 The Centers for Medicare & Medicaid Services (CMS)
